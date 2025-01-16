@@ -76,9 +76,6 @@ Aquí encontrarás algunos de mis proyectos en GitHub, donde he implementado lo 
 # 🌍 Lucas - Desarrollador en Aprendizaje | Developer in Training 👨‍💻
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b7611brsgyicf6rw5ke7lurjvy15f51usbfk6wv9ilub0&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Programador"/>
-</p>
 
 
 **Hello everyone!**
