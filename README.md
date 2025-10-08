@@ -15,7 +15,6 @@
 
 <h2 id="español">🇪🇸 Español</h2>
 
----
 
 
 **¡Hola a todos!**
@@ -82,9 +81,9 @@ Aquí encontrarás algunos de mis proyectos en GitHub, donde he implementado lo 
 
 ---
 
+
 <h2 id="english">🇬🇧 English</h2>
 
----
 
 **Hello everyone!**
 
