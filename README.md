@@ -13,7 +13,8 @@
 
 ---
 
-<h2 id="español">🇪🇸 Español</h2>
+
+<h3 id="español">🇪🇸 Español</h3>
 
 
 
@@ -82,7 +83,8 @@ Aquí encontrarás algunos de mis proyectos en GitHub, donde he implementado lo 
 ---
 
 
-<h2 id="english">🇬🇧 English</h2>
+<h3 id="english">🇬🇧 English</h3>
+
 
 
 **Hello everyone!**
