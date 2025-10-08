@@ -14,7 +14,7 @@
 ---
 
 
-<h3 id="español">🇪🇸 Español</h3>
+<h2 id="español">🇪🇸 Español</h2>
 
 
 
@@ -83,7 +83,7 @@ Aquí encontrarás algunos de mis proyectos en GitHub, donde he implementado lo 
 ---
 
 
-<h3 id="english">🇬🇧 English</h3>
+<h2 id="english">🇬🇧 English</h2>
 
 
 
